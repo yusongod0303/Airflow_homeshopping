@@ -1,0 +1,15 @@
+projects/crawling/
+projects/last_pj_web/
+
+# .gitignore 파일에 추가
+.ssh/
+*.pem
+id_rsa
+id_rsa.pub
+
+# Ignore Airflow logs
+airflow/logs/
+.ssh/
+id_rsa
+id_rsa.pub
+*.pem
