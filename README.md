@@ -82,7 +82,7 @@
             └── static/  
   
 
-** projects 내부에 있는 crawling_code와 web_code는 api키 보안 문제로 인하여 gitignore 처리함 **
+**projects 내부에 있는 crawling_code와 web_code는 api키 보안 문제로 인하여 gitignore 처리함**
   
 ## 주요 구성 요소 설명
 
