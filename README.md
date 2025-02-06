@@ -9,7 +9,7 @@
   - **Docker**: 컨테이너 기반 배포
   - **PostgreSQL**: 메타데이터 저장소
   - **Redis**: 메시지 브로커
-  - **EC2 (Ubuntu)**: 프로젝트 호스팅
+  - **EC2 (Amazon Linux)**: 프로젝트 호스팅
 
 ---
 
